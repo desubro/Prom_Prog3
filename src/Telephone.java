@@ -15,9 +15,7 @@ public class Telephone {
     public Telephone(){
 
     }
-    //Brashura, truver, versus
-//param param pam
-//AJAJAJJA
+//new Comment
     public void fix(File file){
         String in="";
         int ch;
